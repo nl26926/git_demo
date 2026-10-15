@@ -8,3 +8,4 @@ fun = function(one)
   if(txt == 'hi') 4
   5}
 {
+a <- c(1, 4, 9, 16)
